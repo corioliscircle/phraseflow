@@ -1,0 +1,16 @@
+{
+  "name": "PhraseFlow",
+  "short_name": "PhraseFlow",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5fa",
+  "theme_color": "#18243b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
